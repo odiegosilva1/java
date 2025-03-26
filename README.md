@@ -1,4 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
 
 # Estudo do Paradigma de Orientação a Objetos em Java
 
