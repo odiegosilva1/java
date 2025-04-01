@@ -8,6 +8,12 @@ public class Main {
     Livro livro2 = new Livro();
 
     livro1.titulo = "Harry Potter";
+    livro1.autor = "JK Rolando";
+    livro1.qtdPaginas = 200;
+
+    livro2.preco = 36.90;
+    livro2.titulo = "Código Limpo";
+    livro2.qtdPaginas = 666;
 
   }
 
